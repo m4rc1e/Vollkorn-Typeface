@@ -4,5 +4,5 @@ cli
 
 ```
 fontmake -g ./sources/Vollkorn.glyphs -o variable
-fontmake -g ./sources/VollkornItalic.glyphs -o variable
+fontmake -g ./sources/VollkornItalic.glyphs -o variable --family-name 'Vollkorn Italic'
 ```
